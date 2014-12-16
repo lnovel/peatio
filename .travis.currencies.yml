@@ -20,3 +20,8 @@
     accounts:
       -
         address: 1dice8EMZmqKvrGE4Qc9bUFf9PX3xaYDp
+  id: 3
+  key: sovereign
+  code: sov
+  coin: true
+  rpc: http://username:password@127.0.0.1:18332
